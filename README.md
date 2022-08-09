@@ -10,8 +10,8 @@ https://pjha2002.github.io/Anemocheck/home.html
 
 Contributors : 
 
-Aman Jaiswal
+Aman Jaiswal  : https://github.com/Amanj-18
 
-Anand Jaiswar 
+Anand Jaiswar : https://github.com/anand-3399
 
-Pawan Jha
+Pawan Jha : https://github.com/pjha2002
