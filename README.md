@@ -7,3 +7,11 @@ Below is the link of our website. Do visit in Laptop or Tab. It doesn't supports
 
 https://pjha2002.github.io/Anemocheck/home.html
 ![Screenshot (192)](https://user-images.githubusercontent.com/85798085/156359129-239afc67-9d67-40c0-918c-0248b7fb428f.png)
+
+Contributors : 
+
+Aman Jaiswal
+
+Anand Jaiswar 
+
+Pawan Jha
